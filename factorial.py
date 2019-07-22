@@ -9,6 +9,8 @@
 # print("факториал числа", number, "равен", factorial)
 
 
+
+
 # factorial with for
 
 number = int(input("Введите число: "))
